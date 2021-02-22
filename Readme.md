@@ -1,4 +1,4 @@
-##Scoring APP
+## Scoring APP
 
 Written in Golang. A default input.txt file is provided. With and sc executable build on Max OS.
 
